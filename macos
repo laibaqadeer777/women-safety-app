@@ -1,0 +1,9 @@
+<script>start("/Users/laiba/development/women_safety_app/macos/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("Flutter","Flutter",1,192,"192 B",1745428694,"23/04/2025, 22:18:14");</script>
+<script>addRow("Runner","Runner",1,320,"320 B",1744874353,"17/04/2025, 12:19:13");</script>
+<script>addRow("Runner.xcodeproj","Runner.xcodeproj",1,160,"160 B",1744874353,"17/04/2025, 12:19:13");</script>
+<script>addRow("Runner.xcworkspace","Runner.xcworkspace",1,128,"128 B",1744874353,"17/04/2025, 12:19:13");</script>
+<script>addRow("RunnerTests","RunnerTests",1,96,"96 B",1744874353,"17/04/2025, 12:19:13");</script>
+<script>addRow(".gitignore",".gitignore",0,89,"89 B",1741856064,"13/03/2025, 13:54:24");</script>
+<script>addRow("Podfile","Podfile",0,1366,"1.3 kB",1741856064,"13/03/2025, 13:54:24");</script>

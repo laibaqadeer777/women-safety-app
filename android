@@ -1,0 +1,13 @@
+<script>start("/Users/laiba/development/women_safety_app/android/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".gradle",".gradle",1,288,"288 B",1745214104,"21/04/2025, 10:41:44");</script>
+<script>addRow("app","app",1,160,"160 B",1745214123,"21/04/2025, 10:42:03");</script>
+<script>addRow("gradle","gradle",1,96,"96 B",1744874353,"17/04/2025, 12:19:13");</script>
+<script>addRow(".gitignore",".gitignore",0,253,"253 B",1741856064,"13/03/2025, 13:54:24");</script>
+<script>addRow("build.gradle.kts","build.gradle.kts",0,515,"515 B",1744874353,"17/04/2025, 12:19:13");</script>
+<script>addRow("gradle.properties","gradle.properties",0,166,"166 B",1744874353,"17/04/2025, 12:19:13");</script>
+<script>addRow("gradlew","gradlew",0,4971,"4.9 kB",1744874353,"17/04/2025, 12:19:13");</script>
+<script>addRow("gradlew.bat","gradlew.bat",0,2404,"2.3 kB",1744874353,"17/04/2025, 12:19:13");</script>
+<script>addRow("local.properties","local.properties",0,157,"157 B",1744874798,"17/04/2025, 12:26:38");</script>
+<script>addRow("settings.gradle.kts","settings.gradle.kts",0,739,"739 B",1744874353,"17/04/2025, 12:19:13");</script>
+<script>addRow("women_safety_app_android.iml","women_safety_app_android.iml",0,1601,"1.6 kB",1744874353,"17/04/2025, 12:19:13");</script>
